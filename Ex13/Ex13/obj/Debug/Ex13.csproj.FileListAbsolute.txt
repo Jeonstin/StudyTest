@@ -1,0 +1,6 @@
+D:\Assignment\Study\Ex13\Ex13\bin\Debug\Ex13.exe.config
+D:\Assignment\Study\Ex13\Ex13\bin\Debug\Ex13.exe
+D:\Assignment\Study\Ex13\Ex13\bin\Debug\Ex13.pdb
+D:\Assignment\Study\Ex13\Ex13\obj\Debug\Ex13.csprojResolveAssemblyReference.cache
+D:\Assignment\Study\Ex13\Ex13\obj\Debug\Ex13.exe
+D:\Assignment\Study\Ex13\Ex13\obj\Debug\Ex13.pdb

@@ -1,0 +1,6 @@
+D:\Assignment\Study\EX7\EX7\bin\Debug\EX7.exe.config
+D:\Assignment\Study\EX7\EX7\bin\Debug\EX7.exe
+D:\Assignment\Study\EX7\EX7\bin\Debug\EX7.pdb
+D:\Assignment\Study\EX7\EX7\obj\Debug\EX7.csprojResolveAssemblyReference.cache
+D:\Assignment\Study\EX7\EX7\obj\Debug\EX7.exe
+D:\Assignment\Study\EX7\EX7\obj\Debug\EX7.pdb
