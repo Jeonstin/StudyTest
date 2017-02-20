@@ -50,7 +50,7 @@
             this.chMAC});
             this.lvAP.FullRowSelect = true;
             this.lvAP.GridLines = true;
-            this.lvAP.Location = new System.Drawing.Point(-72, 9);
+            this.lvAP.Location = new System.Drawing.Point(12, 12);
             this.lvAP.Name = "lvAP";
             this.lvAP.Size = new System.Drawing.Size(660, 440);
             this.lvAP.TabIndex = 5;
@@ -93,7 +93,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(516, 458);
+            this.ClientSize = new System.Drawing.Size(766, 499);
             this.Controls.Add(this.lvAP);
             this.Name = "Form1";
             this.Text = "Form1";
