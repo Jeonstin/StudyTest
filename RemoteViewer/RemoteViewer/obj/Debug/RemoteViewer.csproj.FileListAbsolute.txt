@@ -1,0 +1,11 @@
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\bin\Debug\RemoteViewer.exe.config
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\bin\Debug\RemoteViewer.exe
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\bin\Debug\RemoteViewer.pdb
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\bin\Debug\JRemoteViewer.dll
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\bin\Debug\JRemoteViewer.xml
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\obj\Debug\RemoteViewer.csprojResolveAssemblyReference.cache
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\obj\Debug\RemoteViewer.Form1.resources
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\obj\Debug\RemoteViewer.Properties.Resources.resources
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\obj\Debug\RemoteViewer.csproj.GenerateResource.Cache
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\obj\Debug\RemoteViewer.exe
+c:\users\jinwoo\documents\visual studio 2015\Projects\RemoteViewer\RemoteViewer\obj\Debug\RemoteViewer.pdb

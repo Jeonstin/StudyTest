@@ -1,0 +1,11 @@
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\bin\Release\RemoteServer.exe.config
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\obj\Release\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\obj\Release\RemoteServer.Form1.resources
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\obj\Release\RemoteServer.Properties.Resources.resources
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\obj\Release\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\bin\Release\RemoteServer.exe
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\bin\Release\RemoteServer.pdb
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\bin\Release\JRemoteServer.dll
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\bin\Release\JRemoteServer.xml
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\obj\Release\RemoteServer.exe
+C:\Users\Jinwoo\Documents\Visual Studio 2015\Projects\RemoteServer\RemoteServer\obj\Release\RemoteServer.pdb
