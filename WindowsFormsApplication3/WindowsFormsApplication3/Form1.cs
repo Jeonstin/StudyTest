@@ -144,6 +144,12 @@ namespace WifiScanner
                 0, (int)ssid.SSIDLength);
         }
 
+        string ConverToIP(byte[] IP)
+        {
+            return null;
+        }
+
+
 
     }
 }
